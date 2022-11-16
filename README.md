@@ -1,4 +1,4 @@
-# Smart Highway Toll Gate using Raspberry pico
+# Smart Highway Toll Gate using Raspberry Pico
 
 This is the project repository for Smart Highway Toll Gate. Refer to the sections below for configuration, build and deployment instructions.
 
